@@ -6,4 +6,4 @@ This code has to be downloaded and imported as a .ipynb file in any python-suppo
 Important: All of the code before the last 2 lines (imports, functions…) needs to be executed before modifying/executing anything else.
 
 Once this is done, the only part of the code that is ought to be modified are the last 2 lines. The code before them creates and benchmarks the indexes corresponding to the given dataset. By modifying those lines, you can check the results by searching the desired words in the final indexed list.
-To do so, you should replace the words “researcher” and “research” by your word, and it will give you the full list and its top 10 results.
+To do so, you should replace the words “researcher” and “research” by your word (in lowercase), and it will give you the full list and its top 10 results.
